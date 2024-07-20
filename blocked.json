@@ -1,8 +1,13 @@
 {
+	"cubecraft.net": [
+		"NoHurtcam"
+	],
     "hivebedrock.network": [
-        "Freelook"
+        "Freelook",
+		"NoHurtcam"
     ],
     "play.galaxite.net": [
-        "Freelook"
+        "Freelook",
+		"NoHurtcam"
     ]
 }
