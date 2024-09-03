@@ -6,5 +6,8 @@
     "play.galaxite.net": [
         "Freelook",
 		"NoHurtcam"
+    ],
+    "mc.nevertime.su": [
+	"NoRender"
     ]
 }
