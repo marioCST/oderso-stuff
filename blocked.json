@@ -8,6 +8,7 @@
 		"NoHurtcam"
     ],
     "mc.nevertime.su": [
+	"Minimap",
 	"NoRender"
     ]
 }
