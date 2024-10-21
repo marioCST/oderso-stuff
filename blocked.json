@@ -1,14 +1,17 @@
 {
     "hivebedrock.network": [
         "Freelook",
-		"NoHurtcam"
+        "NoHurtcam"
     ],
     "play.galaxite.net": [
         "Freelook",
-		"NoHurtcam"
+        "NoHurtcam"
     ],
     "mc.nevertime.su": [
-	"Minimap",
-	"NoRender"
+        "Minimap",
+        "NoRender"
+    ],
+    "play.cubecraft.net": [
+        "JavaInventory"
     ]
 }
