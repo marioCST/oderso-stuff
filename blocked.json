@@ -13,9 +13,12 @@
     ],
     "89.33.12.43": [
     	"Minimap",
-   	"NoRender"
+		"NoRender"
     ],
 	"cubecraft.net": [
 		"Waila"
+	],
+	"phoenix-pe.ru": [
+		"Minimap"
 	]
 }
