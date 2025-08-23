@@ -25,5 +25,8 @@
 		"JavaInventory",
 		"Minimap",
 		"TNTTimer"
+	],
+	"plutonium.best": [
+		"SkinStealer"
 	]
 }
