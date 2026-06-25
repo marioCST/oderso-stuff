@@ -2,6 +2,9 @@
     "hivebedrock.cloud": [
         "Freelook"
     ],
+	"hivebedrock.network": [
+        "Freelook"
+    ],
     "play.galaxite.net": [
         "Freelook",
 		"Hurtcam",
