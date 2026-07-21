@@ -14,6 +14,15 @@
         "Minimap",
         "NoRender"
     ],
+	"ru.nevertime.su": [
+        "Minimap"
+    ],
+	"test.nevertime.su": [
+        "Minimap"
+    ],
+	"51.195.60.88": [
+        "Minimap"
+    ],
     "89.33.12.43": [
     	"Minimap",
 		"NoRender"
